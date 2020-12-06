@@ -21,7 +21,7 @@ function JoinBlock({ onLogin }) {
 
   return (
     <div className="join-block">
-      <img class = "lock_image" src="/img/lock.jpg" alt="lock" />
+      <img class = "lock_image" src="../img/lock.jpg" alt="lock" />
       <input
         type="text"
         placeholder="Room ID"
